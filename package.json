@@ -1,0 +1,25 @@
+{
+  "name": "treejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndreyPatseiko/treeJs.git"
+  },
+  "author": "Andrey Patseyko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndreyPatseiko/treeJs/issues"
+  },
+  "homepage": "https://github.com/AndreyPatseiko/treeJs#readme",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.18.12"
+  }
+}
