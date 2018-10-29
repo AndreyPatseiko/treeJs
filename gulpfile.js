@@ -8,7 +8,7 @@ gulp.task("browser-sync", function() {
     },
     notify: false,
     open: false,
-    files: ["./js/*.js"]
+    files: ["./js/*.js", "./style/*.css"]
   });
 });
 
